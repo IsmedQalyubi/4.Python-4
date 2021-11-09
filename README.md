@@ -7,7 +7,7 @@
 4. Menjumlahkan List
 ![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/menjumlahkan%20list.PNG) 
 5. Mencari Angka Max
-![image](
+![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/mencari%20angka%20max.PNG) 
 6. Tuple
 ![image](
 7. Unpack
