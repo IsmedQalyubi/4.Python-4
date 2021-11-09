@@ -13,4 +13,4 @@
 7. Unpack
 ![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/unpack.PNG) 
 8. Dictionary
-![image](
+![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/dictionary.PNG) 
