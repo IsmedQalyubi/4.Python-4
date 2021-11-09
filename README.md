@@ -3,7 +3,7 @@
 2. List 
 ![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/LISTT.PNG) 
 3. List Method
-![image](
+![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/list%20method.PNG) 
 4. Menjumlahkan List
 ![image](
 5. Mencari Angka Max
