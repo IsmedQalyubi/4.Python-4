@@ -5,7 +5,7 @@
 3. List Method
 ![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/list%20method.PNG) 
 4. Menjumlahkan List
-![image](
+![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/menjumlahkan%20list.PNG) 
 5. Mencari Angka Max
 ![image](
 6. Tuple
