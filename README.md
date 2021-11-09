@@ -1,7 +1,7 @@
 1. Perulangan For
 ![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/perulangan%20for.PNG) 
 2. List 
-![image](
+![image](https://github.com/IsmedQalyubi/4.Python-4/blob/main/LISTT.PNG) 
 3. List Method
 ![image](
 4. Menjumlahkan List
